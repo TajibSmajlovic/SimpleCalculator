@@ -1,2 +1,2 @@
 # SimpleCalculator
-Source code is located in /src/mycalculator/
+Source code is located in /src/mycalculator/ MyCalculator.java
